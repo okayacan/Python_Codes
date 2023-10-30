@@ -1,0 +1,5 @@
+It is presented a Python script for a simple command-line "Paper-Scissors-Rock" (also known as "Rock-Paper-Scissors") game you can play against the computer.
+To play the game, you choose 'rock', 'paper', or 'scissors,' and the computer randomly selects its choice. 
+The script then determines the winner and asks if you want to play another round.
+There are many studies in literature in which equilibrium conditions of ecosystem are examined by implementing RPS-based models.
+
