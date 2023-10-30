@@ -1,0 +1,4 @@
+Four-Step Runge-Kutta method for ODEs.
+
+This code covers an implicit four-step Runge-Kutta method.
+The code solves an initial value problem numerically.
