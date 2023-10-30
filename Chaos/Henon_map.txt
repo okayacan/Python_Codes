@@ -1,0 +1,5 @@
+The Hénon map is a mathematical map that describes a discrete-time dynamical system. 
+It's commonly used to visualize chaotic behavior.
+We define the parameters 'a' and 'b' for the Hénon map and specify the number of points to generate. 
+The initial conditions for 'x' and 'y' are set, and then we iteratively apply the Hénon map equations to generate the points.
+Finally, we use matplotlib to create a scatter plot of the Hénon map.

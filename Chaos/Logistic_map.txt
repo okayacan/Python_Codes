@@ -1,0 +1,3 @@
+The logistic map is a mathematical model that exhibits chaotic behavior as a parameter (denoted as "r" in the code) varies. 
+This Python script generates a bifurcation diagram of the logistic map by iterating over a range of "r" values and computing the resulting "x" values. 
+The bifurcation diagram visually demonstrates the transition from ordered to chaotic behavior as "r" increases.
