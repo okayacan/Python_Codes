@@ -1,0 +1,5 @@
+Here's a Python script that calculates the definite integral of a function using the Simpson's rule method. 
+You'll need to provide the function you want to integrate, the lower and upper bounds of the interval, and the number of subintervals (n) for the approximation.
+You can define your function in the f(x) function. 
+The simpsons_rule function takes the function f, lower and upper bounds a and b, and the number of subintervals n as input. 
+It then calculates the definite integral using Simpson's rule.
